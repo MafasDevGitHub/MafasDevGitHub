@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **mafas7647@gmail.com
-- +94 761200230**
+- 📫 How to reach me **mafas7647@gmail.com**
+- **+94 761200230**
 
 - ⚡ Fun fact **I think I am funny**
 
