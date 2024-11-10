@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mafasdevgithub&label=Profile%20views&color=0e75b6&style=flat" alt="mafasdevgithub" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN & Machine Learning**
 
 - 📫 How to reach me **mafas7647@gmail.com**
 - **+94 761200230**
